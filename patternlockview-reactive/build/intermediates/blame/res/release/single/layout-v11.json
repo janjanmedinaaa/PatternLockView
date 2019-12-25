@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/patternlockview-reactive/build/intermediates/res/merged/release/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/patternlockview-reactive/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/patternlockview-reactive/build/intermediates/res/merged/release/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/patternlockview-reactive/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/patternlockview-reactive/build/intermediates/res/merged/release/layout-v11/notification_media_action.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/patternlockview-reactive/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/patternlockview-reactive/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/patternlockview-reactive/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/patternlockview-reactive/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/patternlockview-reactive/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/layout-v21/notification_action.xml"
+    }
+]

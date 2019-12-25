@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/patternlockview-reactive/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a8cc60e96d83332074193d089e7192aeb8f6713">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/classes_27d0194e9676454d1da97688604892930554f08b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/.android/build-cache/9d2f8357f688bdc89a958feb2b87ceb9f6958dfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/classes_3f07a41e3e20584ddd9caddbbb0a5d2d92768853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/.android/build-cache/73e04270a3a3110c45d95212cbc90d5ae4b5d93e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/classes_1e5700cae2ffc745be73c88798cf08901a2a43bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.2/cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9/rxjava-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/rxjava-2.0.2_228c09784ec5a24f9e2bb1be22690e3d87bc1968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/patternlockview/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9613585901337a765fdcb5b00e67473a6848560d">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/classes_d3d2dc791d4f4dabf491588c1ab47636eeddaec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/.android/build-cache/73a950c34eed87d72d0738d7f67dea6e19860646/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/classes_656fe12bcc734121ea79db2a754fcec5ebfb6c31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/classes_c76c7f2d16bf3b1a2b21a775d75a4747e9271107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/.android/build-cache/7b0828e086d6f4daa1032adced45080faf8d4160/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/classes_6ba4d8c64de883dbb1ae0e0b5bdcbdbde1ca194a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/.android/build-cache/783b08434db76597dadebca4d521f06c75a12e5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/classes_ae17a79d8a2dfc7a43d623ff3385a6cabe88eb19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/.android/build-cache/e4c6243a9c11cadaf9a8e7480fca67ea09c688aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21d5aff81a43d20a14f82d653366c9b7a215071c">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/classes_8155a9083607d4b83c17cb654b445536656389df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_0b056525ead39d7ae54eecf77c393acab616d50e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/.android/build-cache/46fa4331e3bb85492d2c9b7b48aa36a7be1841c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/classes_8332cca15e42525df41f9aadb1b2379d787a6943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/.android/build-cache/4ec997ec8cd125dfdebc72b33512976487b95de6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/classes_0222ab4cc4d7e555a0a6582035ac1020c77555e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_6b3a4a6852439bf2ddf27ccf29bbea0e80a1dda5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janjanmedinaaa/.android/build-cache/fbf52a95fcd92385afb55daaa09904201e4347e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/pre-dexed/debug/classes_ad6b757d136455adda1baecce5b8b52cbc044ea1.jar" />
+    </item>
+
+</items>

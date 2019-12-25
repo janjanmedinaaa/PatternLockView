@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/janjanmedinaaa/Documents/Projects/PatternLockView/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/janjanmedinaaa/.android/build-cache/a4881244a8012e5c3800fce1c48c733348fa860a/output/res/anim/abc_fade_out.xml"
+    }
+]
